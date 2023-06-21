@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5578664-cab7-44a6-9feb-aaa35d935659" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Petstagram/common/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Petstagram/pets/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Petstagram/pets/migrations/0002_alter_pet_slug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Petstagram/photos/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Petstagram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Petstagram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/templates/login-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/templates/login-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/templates/profile-delete-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/templates/profile-delete-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/templates/profile-details-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/templates/profile-details-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/templates/profile-edit-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/templates/profile-edit-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/templates/register-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/templates/register-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/templates/home-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/templates/home-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/common/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/common/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/templates/pet-add-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/templates/pet-add-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/templates/pet-delete-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/templates/pet-delete-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/templates/pet-details-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/templates/pet-details-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/templates/pet-edit-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/templates/pet-edit-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/pets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/pets/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/templates/photo-add-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/templates/photo-add-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/templates/photo-details-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/templates/photo-details-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/templates/photo-edit-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/templates/photo-edit-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/photos/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/photos/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/Petstagram/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Petstagram/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/404.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/404.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/petFunctions.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/petFunctions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/petProfile.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/petProfile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/photoDetails.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/photoDetails.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/profileFunctions.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/profileFunctions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/are_you_sure_cat.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/are_you_sure_cat.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/axolotl.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/axolotl.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/dog-on-bed.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/dog-on-bed.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/dog-on-road.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/dog-on-road.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/edit-pen-icon-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/edit-pen-icon-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/ezgif.com-gif-maker.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ezgif.com-gif-maker.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/free-30-instagram-stories-icons23_122570.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/free-30-instagram-stories-icons23_122570.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/icon-remove-22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/icon-remove-22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/logo-with-name.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/logo-with-name.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/no_posts.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/no_posts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/person.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/person.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/static/images/zillow-404-page-5f3ed6a6abaa5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/zillow-404-page-5f3ed6a6abaa5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Petstagram-project/templates/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RQnIadFRN0g4s1rsprg7X1AV99" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stiva\PycharmProjects\Petstagram\static\images" />
+      <recent name="C:\Users\stiva\PycharmProjects\Petstagram" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5578664-cab7-44a6-9feb-aaa35d935659" name="Changes" comment="" />
+      <created>1687191097083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687191097083</updated>
+      <workItem from="1687191100678" duration="1240000" />
+      <workItem from="1687198977038" duration="183000" />
+      <workItem from="1687199241151" duration="48000" />
+      <workItem from="1687199304956" duration="605000" />
+      <workItem from="1687203149469" duration="172000" />
+      <workItem from="1687203340536" duration="22000" />
+      <workItem from="1687203373125" duration="19000" />
+      <workItem from="1687203541572" duration="2270000" />
+      <workItem from="1687206173295" duration="320000" />
+      <workItem from="1687206694404" duration="2019000" />
+      <workItem from="1687296223497" duration="1796000" />
+      <workItem from="1687332400725" duration="11673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
